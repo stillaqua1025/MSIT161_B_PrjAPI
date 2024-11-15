@@ -1,0 +1,174 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "dbMSTI161_B_ProjectContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MSIT161_B_PriAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[AspNetRoleClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserLogins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserTokens]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tChatImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tColor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tConditions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tCoupon]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tCoupon_Redemption]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tFriends]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tLoginRecord]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tMemberChat]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tNotifyType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tOrderChangeReason]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tPart]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tPayMethod]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWComment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWNotify]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWOrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWProductDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWProductImage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRTWShoppingCart]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tShipMethod]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tShipState]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tSizes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tTag]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserTag]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
